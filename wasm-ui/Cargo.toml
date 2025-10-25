@@ -1,0 +1,11 @@
+[package]
+name = "wasm-ui"
+version = "0.1.0"
+edition = "2024"
+description = "Browser UI for managinf users..."
+
+[lib]
+crate-type = ["cdylib"] # produces a .wasm file
+
+[dependencies]
+

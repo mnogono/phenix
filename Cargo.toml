@@ -1,0 +1,3 @@
+[workspace]
+members = ["test", "phenix", "wasm-ui", "fs-test", "data"]
+resolver = "2"
